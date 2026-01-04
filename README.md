@@ -150,9 +150,13 @@ CUDAの利用可能性とGPU情報を確認します。
 
 このノートブックは教育・研究目的で使用できます。使用するモデルとデータセットのライセンスを確認してください。
 
+## zenn記事
+ - [DETRを既存の物体検出データセットを用いフルファインチューニングでカスタマイズする！](https://zenn.dev/rakushaking/articles/ba08e64ffd54bf)
+
 ## 参考資料
 
 - [DETR論文](https://arxiv.org/abs/2005.12872)
 - [Hugging Face DETR](https://huggingface.co/docs/transformers/model_doc/detr)
 - [Balloon Dataset](https://github.com/matterport/Mask_RCNN)
+
 
